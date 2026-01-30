@@ -1,17 +1,7 @@
 # 💧 Smart Turbidity-Based Water Quality Prediction
 
-### 🌱 AI-Powered Water Quality Analysis for Smart Irrigation
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Decision%20Tree-blue" />
-  <img src="https://img.shields.io/badge/Python-3.x-yellow" />
-  <img src="https://img.shields.io/badge/Streamlit-Dashboard-red" />
-  <img src="https://img.shields.io/badge/Status-Academic%20Project-success" />
-</p>
-
----
-
-## 📌 About the Project
+## About the Project
 
 This project is a **Machine Learning–based turbidity analysis system** designed to evaluate **irrigation water quality**.
 Using **turbidity values** as input, the system classifies water into **Good, Medium, or Bad** categories and provides **risk-based recommendations**.
@@ -20,16 +10,16 @@ The project demonstrates a **complete ML workflow** — from data preprocessing 
 
 ---
 
-## 🎯 Why This Project?
+## Why This Project?
 
-* 💧 Water turbidity directly affects irrigation efficiency
-* 🌾 Poor water quality can damage crops and soil
-* 🧠 Machine Learning enables **fast & automated decision-making**
-* 🚀 Scalable for **IoT + smart agriculture systems**
+* Water turbidity directly affects irrigation efficiency
+* Poor water quality can damage crops and soil
+* Machine Learning enables **fast & automated decision-making**
+* Scalable for **IoT + smart agriculture systems**
 
 ---
 
-## 🧠 Working Principle (High-Level)
+## Working Principle (High-Level)
 
 1. **Input:** Turbidity value (sensor/manual)
 2. **Model:** Decision Tree Classifier
@@ -39,30 +29,29 @@ The project demonstrates a **complete ML workflow** — from data preprocessing 
 
 ---
 
-## 🚦 Water Quality Classification
+##  Water Quality Classification
 
 | Turbidity Level | Prediction | Meaning               |
 | --------------- | ---------- | --------------------- |
-| Low             | ✅ Good     | Safe for irrigation   |
-| Medium          | ⚠️ Medium  | Treatment recommended |
-| High            | 🚫 Bad     | Unsafe for irrigation |
+| Low             |  Good     | Safe for irrigation   |
+| Medium          |  Medium  | Treatment recommended |
+| High            |  Bad     | Unsafe for irrigation |
 
 ---
 
-## 🖥️ Interactive Dashboard
+## Interactive Dashboard
 
 The Streamlit dashboard provides:
 
-* 📊 Training & Testing Accuracy
-* 🧪 Live turbidity input
-* 🚨 Risk-based alerts
-* 📈 Dataset insights
+* Training & Testing Accuracy
+* Live turbidity input
+* Risk-based alerts
+* Dataset insights
 
 > Designed for **ease of use by farmers, researchers, and students**
 
----
 
-## 🧰 Tech Stack
+## Tech Stack
 
 * **Language:** Python
 * **ML Library:** Scikit-learn
@@ -71,21 +60,20 @@ The Streamlit dashboard provides:
 * **Web Interface:** Streamlit
 
 
- 🚀 Future Enhancements
+ Future Enhancements
 
-* 🔌 Real-time turbidity sensor integration (ESP32 / Arduino)
-* 📡 IoT-based water monitoring
-* 📱 Mobile app / REST API
-* 🚨 Automated alerts for farmers
-* 🌍 Smart irrigation system deployment
+* Real-time turbidity sensor integration (ESP32 / Arduino)
+* IoT-based water monitoring
+* Mobile app / REST API
+* Automated alerts for farmers
+* Smart irrigation system deployment
 
----
 
- 👨‍💻 Author
+  Author
 
 **Prince Kumar**
 Electronics & Communication Engineering
-💡 Strong interest in **Machine Learning, Smart Systems & Applied AI**
+ Strong interest in **Machine Learning, Smart Systems & Applied AI**
 
 
 
