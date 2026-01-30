@@ -68,11 +68,14 @@ The Streamlit dashboard provides:
 * Automated alerts for farmers
 * Smart irrigation system deployment
 
+---
 
-## -> AUTHOR
+## -> Author
 
 **Prince Kumar**
+
 Electronics & Communication Engineering
+
  Strong interest in **Machine Learning, Smart Systems & Applied AI**
 
 
