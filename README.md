@@ -69,7 +69,7 @@ The Streamlit dashboard provides:
 * Smart irrigation system deployment
 
 
-## AUTHOR
+## -> AUTHOR
 
 **Prince Kumar**
 Electronics & Communication Engineering
