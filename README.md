@@ -70,23 +70,8 @@ The Streamlit dashboard provides:
 * **Data Handling:** Pandas, NumPy
 * **Web Interface:** Streamlit
 
----
 
-## 📂 Project Structure
-
-```
-TUURBIDITY_ML_MODEL/
-│
-├── data/
-│   └── turbidity_data.csv
-├── app.py        # Streamlit dashboard
-├── model.py      # ML training & testing
-├── README.md
-└── requi
-
----
-
-## 🚀 Future Enhancements
+ 🚀 Future Enhancements
 
 * 🔌 Real-time turbidity sensor integration (ESP32 / Arduino)
 * 📡 IoT-based water monitoring
